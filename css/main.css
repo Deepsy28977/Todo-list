@@ -41,7 +41,7 @@ body::-webkit-scrollbar-thumb {
 /* Header */
 .main-header {
 	color: var(--white);
-	background: var(--blue);
+	background: var(--gray);
 	padding: 1.5rem 0;
 	text-align: center;
 }
@@ -101,7 +101,7 @@ body::-webkit-scrollbar-thumb {
 .alert-warning {
 	color: #856404;
 	background-color: #fff3cd;
-	border-color: #ffeeba;
+	border-color: #babfff;
 }
 
 /* Noty */
